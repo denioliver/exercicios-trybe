@@ -15,7 +15,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
         [ ] JavaScript: DOM, Eventos e Web Storage
         
 - ### Front-End ⏳
+
 - ### Banck-End ⏳
+
 - ### Ciência da computação ⏳
 
 
