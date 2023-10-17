@@ -13,7 +13,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
         [ ] Introdução à HTML & CSS
         [ ] Introdução à JavaScript
         [ ] JavaScript: DOM, Eventos e Web Storage
-
+        
 - ### Front-End ⏳
 - ### Banck-End ⏳
 - ### Ciência da computação ⏳
