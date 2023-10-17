@@ -1,0 +1,6 @@
+Crie uma pasta para armazenar um repositório local: mkdir <nome da pasta>;
+Acesse a pasta criada: cd <nome da pasta criada>;
+Inicie um repositório local nessa pasta, em que é possível ter o controle de versionamento: git init;
+Faça uma modificação inicial, por exemplo: touch README.md;
+Faça uma verificação de quais arquivos foram alterados: git status;
+Adicione os arquivos modificados e selecionados ao que será a próxima versão: git add (git add README.md ou git add .);
