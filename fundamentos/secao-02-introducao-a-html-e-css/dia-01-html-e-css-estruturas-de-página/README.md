@@ -17,5 +17,3 @@ Nessa aula temos uma introdução a internet, as peças que montam a Internet.
 >Para saber mais sobre o TCP/IP, acesse esse [link](https://pt.wikipedia.org/wiki/TCP/IP)
 
 ## HTML - Primeiras tags
-
-#### index.html
