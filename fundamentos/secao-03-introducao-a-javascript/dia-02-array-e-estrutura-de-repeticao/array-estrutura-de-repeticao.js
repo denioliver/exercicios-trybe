@@ -48,6 +48,7 @@ console.log(`o fatorial de 10 é: ${num}` );
 let word = 'tryber';
 let reverseWord = '';
 
+
 for (let index = word.length - 1; index >= 0; index -= 1) {
     reverseWord += word[index];
 };
