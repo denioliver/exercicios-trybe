@@ -9,10 +9,13 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ## Desenvolvimento web Full-Stack 
 
 - ### Fundamentos do Desenvolvimento Web ✅
-        Unix, Shell e Git
-        Introdução à HTML & CSS
-        Introdução à JavaScript
-        javaScript: DOM, Eventos e Web Storage
+        - Unix, Shell e Git
+        - Introdução à HTML & CSS
+        - Introdução à JavaScript
+        - javaScript: DOM, Eventos e Web Storage
+        - HTML e CSS: Forms, Flexbox e Responsivo
+        - Introdução à JavaScript ES6 e Testes Unitários
+        - Métodos de Array
 
 - ### Front-End ⏳
 

@@ -1,0 +1,2 @@
+const  removerItem = require('./script')
+
